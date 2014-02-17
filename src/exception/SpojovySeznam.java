@@ -12,7 +12,7 @@ public class SpojovySeznam {
 	void vypisZoznam() {
 		for(int i = 0; i < zoznam.size(); i++) {
 			System.out.println(zoznam.get(i));
-			System.out.println("Nieco...");
+			System.out.println("Nieco... z ineho pc hehehe");
 
 		}
 	}
